@@ -1,0 +1,7 @@
+.d-logo {
+    color: white;
+    background-color: rgb(255, 69, 0);
+    min-width: 2rem;
+    border-radius: 15%; 
+    padding: 0.25rem 0.75rem;
+}
